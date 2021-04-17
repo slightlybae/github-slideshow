@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"*keep* *wining*" 😉
+"keep winning" 😉
 Use the left arrow to go back!
